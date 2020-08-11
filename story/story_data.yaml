@@ -103,6 +103,20 @@ settings:
         item1: "backpack"
         item2: "solar powered tablet"
 
+  sex:
+    description: " trying to fuck everything you can "
 
+    characters:
+      Rocco:
+        prompts: ["You have a giant cock and an urge to fuck bitches"]
+
+        item1: "giant cock"
+        item2: "full balls"
+
+      Sasha Grey:
+        prompts: ["You are a super slut and you want to get fucked"]
+
+        item1: "cute face"
+        item2: "tight ass"
 
 
